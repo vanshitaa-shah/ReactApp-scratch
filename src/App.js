@@ -5,6 +5,7 @@ const App = () => {
     return (
         <div>
             <h1 className="heading">Hello React</h1>
+            <img src={img} alt="" />
         </div>
     );
 }
