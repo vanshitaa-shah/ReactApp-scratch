@@ -145,3 +145,7 @@
         npm start
     ```
 
+
+### Snapshot of work:
+
+![Output image](./public/output.png)
